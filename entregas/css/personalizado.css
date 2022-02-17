@@ -1,0 +1,28 @@
+body {
+    margin: 40px 10px;
+    padding: 0;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+#calendar {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.visevent {
+    display: block;
+}
+
+.formedit {
+    display: none;
+}
+
+td {
+    width: 100px !important;
+}
+
+hr {
+    border-color: #aaa !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+}
